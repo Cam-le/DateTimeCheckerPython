@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DateTimeCheckerAppPython", "DateTimeCheckerAppPython\DateTimeCheckerAppPython.pyproj", "{002714C0-94DC-4C6B-A9CF-48FB26458D3D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DateTimeCheckerAppPython.UnitTests", "DateTimeCheckerAppPython.UnitTests\DateTimeCheckerAppPython.UnitTests.pyproj", "{3FCCFBF4-8558-4E79-9AE7-880AC1BB7D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{002714C0-94DC-4C6B-A9CF-48FB26458D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002714C0-94DC-4C6B-A9CF-48FB26458D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCCFBF4-8558-4E79-9AE7-880AC1BB7D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCCFBF4-8558-4E79-9AE7-880AC1BB7D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A446B9F8-0EC7-46B3-8230-C24CF2578792}
+	EndGlobalSection
+EndGlobal
